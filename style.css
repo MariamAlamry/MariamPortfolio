@@ -126,7 +126,7 @@ input, select, textarea {
 	b, strong {
 
 
-		font-weight: 600;
+		font-weight: 400px;
 		color: #0e0e0e;
 	}
 
@@ -2548,3 +2548,4 @@ h8{
     background-color: #dc3545;
 
   }
+
